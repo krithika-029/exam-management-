@@ -1,0 +1,63 @@
+.auth-container {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+}
+
+.auth-card {
+  border: none;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.auth-card .card-header {
+  border: none;
+  padding: 20px;
+}
+
+.auth-card .card-body {
+  background-color: #f8f9fa;
+}
+
+.nav-pills .nav-link {
+  border-radius: 25px;
+  margin: 0 5px;
+  transition: all 0.3s ease;
+}
+
+.nav-pills .nav-link.active {
+  background-color: #007bff;
+  transform: translateY(-2px);
+}
+
+.form-control {
+  border-radius: 10px;
+  border: 1px solid #dee2e6;
+  padding: 12px 15px;
+  transition: all 0.3s ease;
+}
+
+.form-control:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.btn-primary {
+  border-radius: 10px;
+  padding: 12px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 123, 255, 0.3);
+}
+
+.btn-link {
+  color: #6c757d;
+  transition: color 0.3s ease;
+}
+
+.btn-link:hover {
+  color: #007bff;
+}

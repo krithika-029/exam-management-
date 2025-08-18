@@ -1,0 +1,21 @@
+usn,name,email,branch,classroom,sub1_code,sub1_name,sub2_code,sub2_name,sub3_code,sub3_name,sub4_code,sub4_name,sub5_code,sub5_name,sub6_code,sub6_name
+4SF22CS001,Alice Johnson,alice.johnson@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS002,Rahul Mehra,rahul.mehra@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS003,Priya Sharma,priya.sharma@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS004,Vikash Kumar,vikash.kumar@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS005,Anita Das,anita.das@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22ME001,Bob Mathew,bob.mathew@scem.edu,ME,C301,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME002,Ajay Singh,ajay.singh@scem.edu,ME,C301,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME003,Ramesh Yadav,ramesh.yadav@scem.edu,ME,C301,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22CE001,Deepa Rao,deepa.rao@scem.edu,CE,C401,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE002,Prakash N,prakash.n@scem.edu,CE,C401,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE003,Suresh Gowda,suresh.gowda@scem.edu,CE,C401,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22EC001,Priya Shetty,priya.shetty@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22EC002,Srinivas R,srinivas.r@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22EC003,Kavya Pai,kavya.pai@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22IS001,Manoj K,manoj.k@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22IS002,Sunita P,sunita.p@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22IS003,Ravi Kiran,ravi.kiran@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22AI001,Amith Rao,amith.rao@scem.edu,AI,C701,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI002,Keerthi S,keerthi.s@scem.edu,AI,C701,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI003,Arjun Nair,arjun.nair@scem.edu,AI,C701,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning

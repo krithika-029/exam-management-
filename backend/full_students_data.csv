@@ -1,0 +1,681 @@
+usn,name,email,branch,classroom,sub1_code,sub1_name,sub2_code,sub2_name,sub3_code,sub3_name,sub4_code,sub4_name,sub5_code,sub5_name,sub6_code,sub6_name
+4SF22CS001,Aarav Agarwal,aarav.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS002,Aditi Agarwal,aditi.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS003,Aishwarya Agarwal,aishwarya.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS004,Akash Agarwal,akash.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS005,Alok Agarwal,alok.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS006,Amita Agarwal,amita.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS007,Amith Agarwal,amith.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS008,Ananya Agarwal,ananya.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS009,Anil Agarwal,anil.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS010,Anita Agarwal,anita.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS011,Anjali Agarwal,anjali.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS012,Ankit Agarwal,ankit.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS013,Anup Agarwal,anup.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS014,Arjun Agarwal,arjun.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS015,Arun Agarwal,arun.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS016,Ashish Agarwal,ashish.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS017,Bharti Agarwal,bharti.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS018,Deepa Agarwal,deepa.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS019,Divya Agarwal,divya.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS020,Gaurav Agarwal,gaurav.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS021,Harish Agarwal,harish.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS022,Ishita Agarwal,ishita.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS023,Jaya Agarwal,jaya.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS024,Karan Agarwal,karan.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS025,Kavya Agarwal,kavya.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS026,Keerthi Agarwal,keerthi.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS027,Kishore Agarwal,kishore.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS028,Lakshmi Agarwal,lakshmi.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS029,Manoj Agarwal,manoj.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS030,Maya Agarwal,maya.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS031,Meera Agarwal,meera.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS032,Mohan Agarwal,mohan.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS033,Nandini Agarwal,nandini.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS034,Neha Agarwal,neha.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS035,Nikhil Agarwal,nikhil.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS036,Nitesh Agarwal,nitesh.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS037,Pooja Agarwal,pooja.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS038,Prakash Agarwal,prakash.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS039,Priya Agarwal,priya.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS040,Rahul Agarwal,rahul.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS041,Rajesh Agarwal,rajesh.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS042,Ramesh Agarwal,ramesh.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS043,Ravi Agarwal,ravi.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS044,Rekha Agarwal,rekha.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS045,Rohit Agarwal,rohit.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS046,Sanjay Agarwal,sanjay.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS047,Shreya Agarwal,shreya.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS048,Sita Agarwal,sita.agarwal@scem.edu,CS,C201,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS049,Sunil Agarwal,sunil.agarwal@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS050,Sunita Agarwal,sunita.agarwal@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS051,Suresh Agarwal,suresh.agarwal@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS052,Swati Agarwal,swati.agarwal@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS053,Tanvi Agarwal,tanvi.agarwal@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS054,Uma Agarwal,uma.agarwal@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS055,Varun Agarwal,varun.agarwal@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS056,Vidya Agarwal,vidya.agarwal@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS057,Vijay Agarwal,vijay.agarwal@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS058,Vinay Agarwal,vinay.agarwal@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS059,Yash Agarwal,yash.agarwal@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS060,Zara Agarwal,zara.agarwal@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS061,Aarav Bhat,aarav.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS062,Aditi Bhat,aditi.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS063,Aishwarya Bhat,aishwarya.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS064,Akash Bhat,akash.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS065,Alok Bhat,alok.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS066,Amita Bhat,amita.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS067,Amith Bhat,amith.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS068,Ananya Bhat,ananya.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS069,Anil Bhat,anil.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS070,Anita Bhat,anita.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS071,Anjali Bhat,anjali.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS072,Ankit Bhat,ankit.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS073,Anup Bhat,anup.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS074,Arjun Bhat,arjun.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS075,Arun Bhat,arun.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS076,Ashish Bhat,ashish.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS077,Bharti Bhat,bharti.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS078,Deepa Bhat,deepa.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS079,Divya Bhat,divya.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS080,Gaurav Bhat,gaurav.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS081,Harish Bhat,harish.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS082,Ishita Bhat,ishita.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS083,Jaya Bhat,jaya.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS084,Karan Bhat,karan.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS085,Kavya Bhat,kavya.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS086,Keerthi Bhat,keerthi.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS087,Kishore Bhat,kishore.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS088,Lakshmi Bhat,lakshmi.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS089,Manoj Bhat,manoj.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS090,Maya Bhat,maya.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS091,Meera Bhat,meera.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS092,Mohan Bhat,mohan.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS093,Nandini Bhat,nandini.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS094,Neha Bhat,neha.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS095,Nikhil Bhat,nikhil.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS096,Nitesh Bhat,nitesh.bhat@scem.edu,CS,C202,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS097,Pooja Bhat,pooja.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS098,Prakash Bhat,prakash.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS099,Priya Bhat,priya.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS100,Rahul Bhat,rahul.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS101,Rajesh Bhat,rajesh.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS102,Ramesh Bhat,ramesh.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS103,Ravi Bhat,ravi.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS104,Rekha Bhat,rekha.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS105,Rohit Bhat,rohit.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS106,Sanjay Bhat,sanjay.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS107,Shreya Bhat,shreya.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS108,Sita Bhat,sita.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS109,Sunil Bhat,sunil.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS110,Sunita Bhat,sunita.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS111,Suresh Bhat,suresh.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS112,Swati Bhat,swati.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS113,Tanvi Bhat,tanvi.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS114,Uma Bhat,uma.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS115,Varun Bhat,varun.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS116,Vidya Bhat,vidya.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS117,Vijay Bhat,vijay.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS118,Vinay Bhat,vinay.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS119,Yash Bhat,yash.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS120,Zara Bhat,zara.bhat@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS121,Aarav Chandra,aarav.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS122,Aditi Chandra,aditi.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS123,Aishwarya Chandra,aishwarya.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS124,Akash Chandra,akash.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS125,Alok Chandra,alok.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS126,Amita Chandra,amita.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS127,Amith Chandra,amith.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS128,Ananya Chandra,ananya.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS129,Anil Chandra,anil.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS130,Anita Chandra,anita.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS131,Anjali Chandra,anjali.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS132,Ankit Chandra,ankit.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS133,Anup Chandra,anup.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS134,Arjun Chandra,arjun.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS135,Arun Chandra,arun.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS136,Ashish Chandra,ashish.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS137,Bharti Chandra,bharti.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS138,Deepa Chandra,deepa.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS139,Divya Chandra,divya.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS140,Gaurav Chandra,gaurav.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS141,Harish Chandra,harish.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS142,Ishita Chandra,ishita.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS143,Jaya Chandra,jaya.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS144,Karan Chandra,karan.chandra@scem.edu,CS,C203,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS145,Kavya Chandra,kavya.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS146,Keerthi Chandra,keerthi.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS147,Kishore Chandra,kishore.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS148,Lakshmi Chandra,lakshmi.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS149,Manoj Chandra,manoj.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS150,Maya Chandra,maya.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS151,Meera Chandra,meera.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS152,Mohan Chandra,mohan.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS153,Nandini Chandra,nandini.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS154,Neha Chandra,neha.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS155,Nikhil Chandra,nikhil.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS156,Nitesh Chandra,nitesh.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS157,Pooja Chandra,pooja.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS158,Prakash Chandra,prakash.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS159,Priya Chandra,priya.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS160,Rahul Chandra,rahul.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS161,Rajesh Chandra,rajesh.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS162,Ramesh Chandra,ramesh.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS163,Ravi Chandra,ravi.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS164,Rekha Chandra,rekha.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS165,Rohit Chandra,rohit.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS166,Sanjay Chandra,sanjay.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS167,Shreya Chandra,shreya.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS168,Sita Chandra,sita.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS169,Sunil Chandra,sunil.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS170,Sunita Chandra,sunita.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS171,Suresh Chandra,suresh.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS172,Swati Chandra,swati.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS173,Tanvi Chandra,tanvi.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS174,Uma Chandra,uma.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS175,Varun Chandra,varun.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS176,Vidya Chandra,vidya.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS177,Vijay Chandra,vijay.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS178,Vinay Chandra,vinay.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS179,Yash Chandra,yash.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS180,Zara Chandra,zara.chandra@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS181,Aarav Das,aarav.das@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS182,Aditi Das,aditi.das@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS183,Aishwarya Das,aishwarya.das@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS184,Akash Das,akash.das@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS185,Alok Das,alok.das@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS186,Amita Das,amita.das@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS187,Amith Das,amith.das@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS188,Ananya Das,ananya.das@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS189,Anil Das,anil.das@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS190,Anita Das,anita.das@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS191,Anjali Das,anjali.das@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS192,Ankit Das,ankit.das@scem.edu,CS,C301,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS193,Anup Das,anup.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS194,Arjun Das,arjun.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS195,Arun Das,arun.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS196,Ashish Das,ashish.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS197,Bharti Das,bharti.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS198,Deepa Das,deepa.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS199,Divya Das,divya.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS200,Gaurav Das,gaurav.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS201,Harish Das,harish.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS202,Ishita Das,ishita.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS203,Jaya Das,jaya.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS204,Karan Das,karan.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS205,Kavya Das,kavya.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS206,Keerthi Das,keerthi.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS207,Kishore Das,kishore.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS208,Lakshmi Das,lakshmi.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS209,Manoj Das,manoj.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS210,Maya Das,maya.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS211,Meera Das,meera.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS212,Mohan Das,mohan.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS213,Nandini Das,nandini.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS214,Neha Das,neha.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS215,Nikhil Das,nikhil.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS216,Nitesh Das,nitesh.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS217,Pooja Das,pooja.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS218,Prakash Das,prakash.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS219,Priya Das,priya.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS220,Rahul Das,rahul.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS221,Rajesh Das,rajesh.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS222,Ramesh Das,ramesh.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS223,Ravi Das,ravi.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS224,Rekha Das,rekha.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS225,Rohit Das,rohit.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS226,Sanjay Das,sanjay.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS227,Shreya Das,shreya.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS228,Sita Das,sita.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS229,Sunil Das,sunil.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS230,Sunita Das,sunita.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS231,Suresh Das,suresh.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS232,Swati Das,swati.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS233,Tanvi Das,tanvi.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS234,Uma Das,uma.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS235,Varun Das,varun.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS236,Vidya Das,vidya.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS237,Vijay Das,vijay.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS238,Vinay Das,vinay.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS239,Yash Das,yash.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22CS240,Zara Das,zara.das@scem.edu,CS,C302,CS201,Data Structures,CS202,Computer Organization,CS203,Discrete Mathematics,CS204,Digital Logic,CS205,Object Oriented Programming,CS206,Microprocessors
+4SF22AI001,Aarav Gowda,aarav.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI002,Aditi Gowda,aditi.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI003,Aishwarya Gowda,aishwarya.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI004,Akash Gowda,akash.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI005,Alok Gowda,alok.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI006,Amita Gowda,amita.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI007,Amith Gowda,amith.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI008,Ananya Gowda,ananya.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI009,Anil Gowda,anil.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI010,Anita Gowda,anita.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI011,Anjali Gowda,anjali.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI012,Ankit Gowda,ankit.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI013,Anup Gowda,anup.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI014,Arjun Gowda,arjun.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI015,Arun Gowda,arun.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI016,Ashish Gowda,ashish.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI017,Bharti Gowda,bharti.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI018,Deepa Gowda,deepa.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI019,Divya Gowda,divya.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI020,Gaurav Gowda,gaurav.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI021,Harish Gowda,harish.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI022,Ishita Gowda,ishita.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI023,Jaya Gowda,jaya.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI024,Karan Gowda,karan.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI025,Kavya Gowda,kavya.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI026,Keerthi Gowda,keerthi.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI027,Kishore Gowda,kishore.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI028,Lakshmi Gowda,lakshmi.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI029,Manoj Gowda,manoj.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI030,Maya Gowda,maya.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI031,Meera Gowda,meera.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI032,Mohan Gowda,mohan.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI033,Nandini Gowda,nandini.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI034,Neha Gowda,neha.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI035,Nikhil Gowda,nikhil.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI036,Nitesh Gowda,nitesh.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI037,Pooja Gowda,pooja.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI038,Prakash Gowda,prakash.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI039,Priya Gowda,priya.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI040,Rahul Gowda,rahul.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI041,Rajesh Gowda,rajesh.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI042,Ramesh Gowda,ramesh.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI043,Ravi Gowda,ravi.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI044,Rekha Gowda,rekha.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI045,Rohit Gowda,rohit.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI046,Sanjay Gowda,sanjay.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI047,Shreya Gowda,shreya.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI048,Sita Gowda,sita.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI049,Sunil Gowda,sunil.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI050,Sunita Gowda,sunita.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI051,Suresh Gowda,suresh.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI052,Swati Gowda,swati.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI053,Tanvi Gowda,tanvi.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI054,Uma Gowda,uma.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI055,Varun Gowda,varun.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI056,Vidya Gowda,vidya.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI057,Vijay Gowda,vijay.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI058,Vinay Gowda,vinay.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI059,Yash Gowda,yash.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI060,Zara Gowda,zara.gowda@scem.edu,AI,C401,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI061,Aarav Gupta,aarav.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI062,Aditi Gupta,aditi.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI063,Aishwarya Gupta,aishwarya.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI064,Akash Gupta,akash.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI065,Alok Gupta,alok.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI066,Amita Gupta,amita.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI067,Amith Gupta,amith.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI068,Ananya Gupta,ananya.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI069,Anil Gupta,anil.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI070,Anita Gupta,anita.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI071,Anjali Gupta,anjali.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI072,Ankit Gupta,ankit.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI073,Anup Gupta,anup.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI074,Arjun Gupta,arjun.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI075,Arun Gupta,arun.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI076,Ashish Gupta,ashish.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI077,Bharti Gupta,bharti.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI078,Deepa Gupta,deepa.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI079,Divya Gupta,divya.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI080,Gaurav Gupta,gaurav.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI081,Harish Gupta,harish.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI082,Ishita Gupta,ishita.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI083,Jaya Gupta,jaya.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI084,Karan Gupta,karan.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI085,Kavya Gupta,kavya.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI086,Keerthi Gupta,keerthi.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI087,Kishore Gupta,kishore.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI088,Lakshmi Gupta,lakshmi.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI089,Manoj Gupta,manoj.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI090,Maya Gupta,maya.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI091,Meera Gupta,meera.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI092,Mohan Gupta,mohan.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI093,Nandini Gupta,nandini.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI094,Neha Gupta,neha.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI095,Nikhil Gupta,nikhil.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI096,Nitesh Gupta,nitesh.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI097,Pooja Gupta,pooja.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI098,Prakash Gupta,prakash.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI099,Priya Gupta,priya.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI100,Rahul Gupta,rahul.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI101,Rajesh Gupta,rajesh.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI102,Ramesh Gupta,ramesh.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI103,Ravi Gupta,ravi.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI104,Rekha Gupta,rekha.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI105,Rohit Gupta,rohit.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI106,Sanjay Gupta,sanjay.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI107,Shreya Gupta,shreya.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI108,Sita Gupta,sita.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI109,Sunil Gupta,sunil.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI110,Sunita Gupta,sunita.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI111,Suresh Gupta,suresh.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI112,Swati Gupta,swati.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI113,Tanvi Gupta,tanvi.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI114,Uma Gupta,uma.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI115,Varun Gupta,varun.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI116,Vidya Gupta,vidya.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI117,Vijay Gupta,vijay.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI118,Vinay Gupta,vinay.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI119,Yash Gupta,yash.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22AI120,Zara Gupta,zara.gupta@scem.edu,AI,C402,AI201,Intro to AI,AI202,Machine Learning,AI203,Data Science,AI204,Python Programming,AI205,Neural Networks,AI206,Deep Learning
+4SF22ECE001,Aarav Hegde,aarav.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE002,Aditi Hegde,aditi.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE003,Aishwarya Hegde,aishwarya.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE004,Akash Hegde,akash.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE005,Alok Hegde,alok.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE006,Amita Hegde,amita.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE007,Amith Hegde,amith.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE008,Ananya Hegde,ananya.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE009,Anil Hegde,anil.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE010,Anita Hegde,anita.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE011,Anjali Hegde,anjali.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE012,Ankit Hegde,ankit.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE013,Anup Hegde,anup.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE014,Arjun Hegde,arjun.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE015,Arun Hegde,arun.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE016,Ashish Hegde,ashish.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE017,Bharti Hegde,bharti.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE018,Deepa Hegde,deepa.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE019,Divya Hegde,divya.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE020,Gaurav Hegde,gaurav.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE021,Harish Hegde,harish.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE022,Ishita Hegde,ishita.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE023,Jaya Hegde,jaya.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE024,Karan Hegde,karan.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE025,Kavya Hegde,kavya.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE026,Keerthi Hegde,keerthi.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE027,Kishore Hegde,kishore.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE028,Lakshmi Hegde,lakshmi.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE029,Manoj Hegde,manoj.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE030,Maya Hegde,maya.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE031,Meera Hegde,meera.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE032,Mohan Hegde,mohan.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE033,Nandini Hegde,nandini.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE034,Neha Hegde,neha.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE035,Nikhil Hegde,nikhil.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE036,Nitesh Hegde,nitesh.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE037,Pooja Hegde,pooja.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE038,Prakash Hegde,prakash.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE039,Priya Hegde,priya.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE040,Rahul Hegde,rahul.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE041,Rajesh Hegde,rajesh.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE042,Ramesh Hegde,ramesh.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE043,Ravi Hegde,ravi.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE044,Rekha Hegde,rekha.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE045,Rohit Hegde,rohit.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE046,Sanjay Hegde,sanjay.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE047,Shreya Hegde,shreya.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE048,Sita Hegde,sita.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE049,Sunil Hegde,sunil.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE050,Sunita Hegde,sunita.hegde@scem.edu,ECE,C501,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE051,Suresh Hegde,suresh.hegde@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE052,Swati Hegde,swati.hegde@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE053,Tanvi Hegde,tanvi.hegde@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE054,Uma Hegde,uma.hegde@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE055,Varun Hegde,varun.hegde@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE056,Vidya Hegde,vidya.hegde@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE057,Vijay Hegde,vijay.hegde@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE058,Vinay Hegde,vinay.hegde@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE059,Yash Hegde,yash.hegde@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE060,Zara Hegde,zara.hegde@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE061,Aarav Iyer,aarav.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE062,Aditi Iyer,aditi.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE063,Aishwarya Iyer,aishwarya.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE064,Akash Iyer,akash.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE065,Alok Iyer,alok.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE066,Amita Iyer,amita.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE067,Amith Iyer,amith.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE068,Ananya Iyer,ananya.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE069,Anil Iyer,anil.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE070,Anita Iyer,anita.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE071,Anjali Iyer,anjali.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE072,Ankit Iyer,ankit.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE073,Anup Iyer,anup.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE074,Arjun Iyer,arjun.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE075,Arun Iyer,arun.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE076,Ashish Iyer,ashish.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE077,Bharti Iyer,bharti.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE078,Deepa Iyer,deepa.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE079,Divya Iyer,divya.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE080,Gaurav Iyer,gaurav.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE081,Harish Iyer,harish.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE082,Ishita Iyer,ishita.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE083,Jaya Iyer,jaya.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE084,Karan Iyer,karan.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE085,Kavya Iyer,kavya.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE086,Keerthi Iyer,keerthi.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE087,Kishore Iyer,kishore.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE088,Lakshmi Iyer,lakshmi.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE089,Manoj Iyer,manoj.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE090,Maya Iyer,maya.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE091,Meera Iyer,meera.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE092,Mohan Iyer,mohan.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE093,Nandini Iyer,nandini.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE094,Neha Iyer,neha.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE095,Nikhil Iyer,nikhil.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE096,Nitesh Iyer,nitesh.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE097,Pooja Iyer,pooja.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE098,Prakash Iyer,prakash.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE099,Priya Iyer,priya.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ECE100,Rahul Iyer,rahul.iyer@scem.edu,ECE,C502,EC201,Analog Electronics,EC202,Signals & Systems,EC203,Logic Design,EC204,Control Systems,EC205,Microprocessors,EC206,Communication Engineering
+4SF22ISE001,Rajesh Iyer,rajesh.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE002,Ramesh Iyer,ramesh.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE003,Ravi Iyer,ravi.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE004,Rekha Iyer,rekha.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE005,Rohit Iyer,rohit.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE006,Sanjay Iyer,sanjay.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE007,Shreya Iyer,shreya.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE008,Sita Iyer,sita.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE009,Sunil Iyer,sunil.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE010,Sunita Iyer,sunita.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE011,Suresh Iyer,suresh.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE012,Swati Iyer,swati.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE013,Tanvi Iyer,tanvi.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE014,Uma Iyer,uma.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE015,Varun Iyer,varun.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE016,Vidya Iyer,vidya.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE017,Vijay Iyer,vijay.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE018,Vinay Iyer,vinay.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE019,Yash Iyer,yash.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE020,Zara Iyer,zara.iyer@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE021,Aarav Jain,aarav.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE022,Aditi Jain,aditi.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE023,Aishwarya Jain,aishwarya.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE024,Akash Jain,akash.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE025,Alok Jain,alok.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE026,Amita Jain,amita.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE027,Amith Jain,amith.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE028,Ananya Jain,ananya.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE029,Anil Jain,anil.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE030,Anita Jain,anita.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE031,Anjali Jain,anjali.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE032,Ankit Jain,ankit.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE033,Anup Jain,anup.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE034,Arjun Jain,arjun.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE035,Arun Jain,arun.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE036,Ashish Jain,ashish.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE037,Bharti Jain,bharti.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE038,Deepa Jain,deepa.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE039,Divya Jain,divya.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE040,Gaurav Jain,gaurav.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE041,Harish Jain,harish.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE042,Ishita Jain,ishita.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE043,Jaya Jain,jaya.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE044,Karan Jain,karan.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE045,Kavya Jain,kavya.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE046,Keerthi Jain,keerthi.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE047,Kishore Jain,kishore.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE048,Lakshmi Jain,lakshmi.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE049,Manoj Jain,manoj.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE050,Maya Jain,maya.jain@scem.edu,ISE,C601,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE051,Meera Jain,meera.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE052,Mohan Jain,mohan.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE053,Nandini Jain,nandini.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE054,Neha Jain,neha.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE055,Nikhil Jain,nikhil.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE056,Nitesh Jain,nitesh.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE057,Pooja Jain,pooja.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE058,Prakash Jain,prakash.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE059,Priya Jain,priya.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE060,Rahul Jain,rahul.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE061,Rajesh Jain,rajesh.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE062,Ramesh Jain,ramesh.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE063,Ravi Jain,ravi.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE064,Rekha Jain,rekha.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE065,Rohit Jain,rohit.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE066,Sanjay Jain,sanjay.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE067,Shreya Jain,shreya.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE068,Sita Jain,sita.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE069,Sunil Jain,sunil.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE070,Sunita Jain,sunita.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE071,Suresh Jain,suresh.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE072,Swati Jain,swati.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE073,Tanvi Jain,tanvi.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE074,Uma Jain,uma.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE075,Varun Jain,varun.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE076,Vidya Jain,vidya.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE077,Vijay Jain,vijay.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE078,Vinay Jain,vinay.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE079,Yash Jain,yash.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE080,Zara Jain,zara.jain@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE081,Aarav Kamath,aarav.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE082,Aditi Kamath,aditi.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE083,Aishwarya Kamath,aishwarya.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE084,Akash Kamath,akash.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE085,Alok Kamath,alok.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE086,Amita Kamath,amita.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE087,Amith Kamath,amith.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE088,Ananya Kamath,ananya.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE089,Anil Kamath,anil.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE090,Anita Kamath,anita.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE091,Anjali Kamath,anjali.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE092,Ankit Kamath,ankit.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE093,Anup Kamath,anup.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE094,Arjun Kamath,arjun.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE095,Arun Kamath,arun.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE096,Ashish Kamath,ashish.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE097,Bharti Kamath,bharti.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE098,Deepa Kamath,deepa.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE099,Divya Kamath,divya.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ISE100,Gaurav Kamath,gaurav.kamath@scem.edu,ISE,C701,IS201,Software Engineering,IS202,Data Structures,IS203,Database Management,IS204,Computer Networks,IS205,Operating Systems,IS206,Web Technologies
+4SF22ME001,Harish Kamath,harish.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME002,Ishita Kamath,ishita.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME003,Jaya Kamath,jaya.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME004,Karan Kamath,karan.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME005,Kavya Kamath,kavya.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME006,Keerthi Kamath,keerthi.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME007,Kishore Kamath,kishore.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME008,Lakshmi Kamath,lakshmi.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME009,Manoj Kamath,manoj.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME010,Maya Kamath,maya.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME011,Meera Kamath,meera.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME012,Mohan Kamath,mohan.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME013,Nandini Kamath,nandini.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME014,Neha Kamath,neha.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME015,Nikhil Kamath,nikhil.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME016,Nitesh Kamath,nitesh.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME017,Pooja Kamath,pooja.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME018,Prakash Kamath,prakash.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME019,Priya Kamath,priya.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME020,Rahul Kamath,rahul.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME021,Rajesh Kamath,rajesh.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME022,Ramesh Kamath,ramesh.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME023,Ravi Kamath,ravi.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME024,Rekha Kamath,rekha.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME025,Rohit Kamath,rohit.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME026,Sanjay Kamath,sanjay.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME027,Shreya Kamath,shreya.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME028,Sita Kamath,sita.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME029,Sunil Kamath,sunil.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME030,Sunita Kamath,sunita.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME031,Suresh Kamath,suresh.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME032,Swati Kamath,swati.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME033,Tanvi Kamath,tanvi.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME034,Uma Kamath,uma.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME035,Varun Kamath,varun.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME036,Vidya Kamath,vidya.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME037,Vijay Kamath,vijay.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME038,Vinay Kamath,vinay.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME039,Yash Kamath,yash.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME040,Zara Kamath,zara.kamath@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME041,Aarav Kumar,aarav.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME042,Aditi Kumar,aditi.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME043,Aishwarya Kumar,aishwarya.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME044,Akash Kumar,akash.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME045,Alok Kumar,alok.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME046,Amita Kumar,amita.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME047,Amith Kumar,amith.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME048,Ananya Kumar,ananya.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME049,Anil Kumar,anil.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME050,Anita Kumar,anita.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME051,Anjali Kumar,anjali.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME052,Ankit Kumar,ankit.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME053,Anup Kumar,anup.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME054,Arjun Kumar,arjun.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME055,Arun Kumar,arun.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME056,Ashish Kumar,ashish.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME057,Bharti Kumar,bharti.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME058,Deepa Kumar,deepa.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME059,Divya Kumar,divya.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22ME060,Gaurav Kumar,gaurav.kumar@scem.edu,ME,A101,ME201,Thermodynamics,ME202,Engineering Mechanics,ME203,Fluid Mechanics,ME204,Manufacturing Processes,ME205,Mechanical Measurements,ME206,Kinematics of Machines
+4SF22CE001,Harish Kumar,harish.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE002,Ishita Kumar,ishita.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE003,Jaya Kumar,jaya.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE004,Karan Kumar,karan.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE005,Kavya Kumar,kavya.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE006,Keerthi Kumar,keerthi.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE007,Kishore Kumar,kishore.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE008,Lakshmi Kumar,lakshmi.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE009,Manoj Kumar,manoj.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE010,Maya Kumar,maya.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE011,Meera Kumar,meera.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE012,Mohan Kumar,mohan.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE013,Nandini Kumar,nandini.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE014,Neha Kumar,neha.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE015,Nikhil Kumar,nikhil.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE016,Nitesh Kumar,nitesh.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE017,Pooja Kumar,pooja.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE018,Prakash Kumar,prakash.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE019,Priya Kumar,priya.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE020,Rahul Kumar,rahul.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE021,Rajesh Kumar,rajesh.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE022,Ramesh Kumar,ramesh.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE023,Ravi Kumar,ravi.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE024,Rekha Kumar,rekha.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE025,Rohit Kumar,rohit.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE026,Sanjay Kumar,sanjay.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE027,Shreya Kumar,shreya.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE028,Sita Kumar,sita.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE029,Sunil Kumar,sunil.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE030,Sunita Kumar,sunita.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE031,Suresh Kumar,suresh.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE032,Swati Kumar,swati.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE033,Tanvi Kumar,tanvi.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE034,Uma Kumar,uma.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE035,Varun Kumar,varun.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE036,Vidya Kumar,vidya.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE037,Vijay Kumar,vijay.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE038,Vinay Kumar,vinay.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE039,Yash Kumar,yash.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE040,Zara Kumar,zara.kumar@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE041,Aarav Lakshman,aarav.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE042,Aditi Lakshman,aditi.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE043,Aishwarya Lakshman,aishwarya.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE044,Akash Lakshman,akash.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE045,Alok Lakshman,alok.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE046,Amita Lakshman,amita.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE047,Amith Lakshman,amith.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE048,Ananya Lakshman,ananya.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE049,Anil Lakshman,anil.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE050,Anita Lakshman,anita.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE051,Anjali Lakshman,anjali.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE052,Ankit Lakshman,ankit.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE053,Anup Lakshman,anup.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE054,Arjun Lakshman,arjun.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE055,Arun Lakshman,arun.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE056,Ashish Lakshman,ashish.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE057,Bharti Lakshman,bharti.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE058,Deepa Lakshman,deepa.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE059,Divya Lakshman,divya.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis
+4SF22CE060,Gaurav Lakshman,gaurav.lakshman@scem.edu,CE,A102,CE201,Surveying,CE202,Building Materials,CE203,Strength of Materials,CE204,Fluid Mechanics,CE205,Concrete Technology,CE206,Structural Analysis

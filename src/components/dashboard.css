@@ -1,0 +1,174 @@
+/* dashboard.css */
+.dashboard-container {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+  padding: 0;
+  margin: 0;
+}
+
+.dashboard-container .navbar {
+  margin-bottom: 0;
+}
+
+.welcome-section {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  margin-top: 0;
+}
+
+.bg-gradient-primary {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.dashboard-card {
+  transition: all 0.3s ease;
+  border-radius: 15px;
+  border-width: 2px !important;
+  height: 100%;
+}
+
+.dashboard-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.hover-lift {
+  transition: all 0.3s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+.dashboard-icon {
+  font-size: 3rem;
+  display: inline-block;
+  padding: 20px;
+  border-radius: 50%;
+  background: rgba(0, 123, 255, 0.1);
+  width: 80px;
+  height: 80px;
+  line-height: 40px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stat-section {
+  padding: 10px 0;
+}
+
+/* Make cards equal height */
+.dashboard-card .card-body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.dashboard-card .mt-3,
+.dashboard-card .mt-auto {
+  margin-top: auto !important;
+}
+
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stat-section {
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid #dee2e6;
+}
+
+.card-header {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-bottom: 2px solid #dee2e6;
+}
+
+.bg-light {
+    background-color: #f8f9fa !important;
+}
+  
+nav .btn {
+    padding: 15px;
+    font-size: 16px;
+    text-align: left;
+    border-radius: 5px;
+}
+  
+nav .btn:hover {
+    background-color: #007bff;
+    color: white;
+}
+  
+.card-body h5 {
+    font-size: 18px;
+}
+  
+.card-body .btn {
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .dashboard-icon {
+    font-size: 2rem;
+    width: 60px;
+    height: 60px;
+    line-height: 20px;
+  }
+  
+  .welcome-section h2 {
+    font-size: 1.5rem;
+  }
+}
+
+/* Animation for cards */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.dashboard-card {
+  animation: fadeInUp 0.5s ease-out;
+}
+
+/* Custom button styles */
+.btn-outline-primary:hover,
+.btn-outline-success:hover,
+.btn-outline-warning:hover,
+.btn-outline-info:hover,
+.btn-outline-secondary:hover,
+.btn-outline-dark:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Navbar customization */
+.navbar-dark .navbar-brand {
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+/* Loading states */
+.spinner-border-sm {
+  width: 1rem;
+  height: 1rem;
+}
+  

@@ -1,0 +1,227 @@
+.seating-allocation-container {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.seating-table {
+  font-size: 0.9rem;
+  margin-bottom: 0;
+}
+
+.seating-table th {
+  background-color: #495057 !important;
+  color: white !important;
+  font-weight: 600;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid #dee2e6 !important;
+  padding: 15px 8px;
+  font-size: 0.9rem;
+}
+
+.seating-table td {
+  border: 1px solid #dee2e6 !important;
+  padding: 8px;
+  vertical-align: middle;
+  min-height: 45px;
+}
+
+.seating-table tbody tr:hover {
+  background-color: rgba(0, 123, 255, 0.1) !important;
+}
+
+.branch-1-seat {
+  background-color: #e3f2fd !important;
+  border-left: 4px solid #2196f3 !important;
+}
+
+.branch-2-seat {
+  background-color: #f3e5f5 !important;
+  border-left: 4px solid #9c27b0 !important;
+}
+
+.seat-number {
+  font-weight: bold;
+  font-size: 1rem;
+  color: #333;
+}
+
+.student-usn {
+  font-weight: 600;
+  color: #1976d2;
+  margin-bottom: 2px;
+}
+
+.subject-code {
+  font-size: 0.8rem;
+  color: #666;
+  font-style: italic;
+}
+
+.exam-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.exam-header h2 {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 300;
+}
+
+.course-info-table {
+  background-color: #fff;
+  border: 2px solid #dee2e6;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.course-info-table th {
+  background-color: #f1f3f4;
+  font-weight: 600;
+  text-align: center;
+  padding: 12px;
+  border-bottom: 2px solid #dee2e6;
+}
+
+.course-info-table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #e9ecef;
+  text-align: center;
+}
+
+.seating-arrangement-title {
+  background-color: #d0d0d0;
+  color: #333;
+  text-align: center;
+  padding: 15px;
+  margin: 20px 0;
+  font-weight: 600;
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  border-radius: 5px;
+}
+
+.footer-section {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.footer-section .form-field {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+  min-height: 20px;
+}
+
+.footer-section .form-field:last-child {
+  margin-bottom: 0;
+}
+
+.stats-card {
+  background: linear-gradient(135deg, #74b9ff 0%, #0984e3 100%);
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+}
+
+.stats-number {
+  font-size: 2.5rem;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+.stats-label {
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+
+.config-card {
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border: none;
+  border-radius: 10px;
+}
+
+.config-card .card-header {
+  background: linear-gradient(135deg, #6c5ce7 0%, #a29bfe 100%);
+  color: white;
+  border-radius: 10px 10px 0 0 !important;
+  padding: 15px 20px;
+}
+
+.btn-generate {
+  background: linear-gradient(135deg, #00b894 0%, #00cec9 100%);
+  border: none;
+  padding: 12px 30px;
+  font-weight: 600;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+}
+
+.btn-generate:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0, 184, 148, 0.4);
+}
+
+.btn-print {
+  background: linear-gradient(135deg, #fd79a8 0%, #fdcb6e 100%);
+  border: none;
+  padding: 12px 30px;
+  font-weight: 600;
+  border-radius: 25px;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.btn-print:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(253, 121, 168, 0.4);
+  color: white;
+}
+
+.form-control:focus {
+  border-color: #6c5ce7;
+  box-shadow: 0 0 0 0.2rem rgba(108, 92, 231, 0.25);
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  
+  .seating-table {
+    font-size: 0.8rem;
+  }
+  
+  .page-break {
+    page-break-before: always;
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .seating-table {
+    font-size: 0.7rem;
+  }
+  
+  .seating-table th,
+  .seating-table td {
+    padding: 4px;
+  }
+  
+  .exam-header h2 {
+    font-size: 1.4rem;
+  }
+  
+  .stats-number {
+    font-size: 2rem;
+  }
+}

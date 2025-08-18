@@ -1,0 +1,163 @@
+/* Modern SeatSelector.css */
+.seat-selector-container {
+  background-color: #f8f9fa;
+  min-height: 100vh;
+  padding: 20px 0;
+}
+
+.seating-grid {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+.grid-position {
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.grid-position:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.empty-position:hover {
+  background-color: #e3f2fd !important;
+  border-color: #2196f3 !important;
+}
+
+.has-bench:hover {
+  opacity: 0.8;
+}
+
+.bench-display {
+  user-select: none;
+}
+
+.empty-display {
+  user-select: none;
+}
+
+.stat-item {
+  padding: 8px 12px;
+  background-color: #f8f9fa;
+  border-radius: 6px;
+  border-left: 4px solid #dee2e6;
+}
+
+.classroom-grid {
+  position: relative;
+}
+
+.grid-header, .grid-footer {
+  padding: 10px;
+  background: linear-gradient(135deg, #6c757d 0%, #495057 100%);
+  border-radius: 8px;
+  color: white;
+  margin: 0 20px;
+}
+
+.preview-container {
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.preview-grid {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border: 2px solid #dee2e6;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .seating-grid {
+    padding: 10px;
+  }
+  
+  .grid-position {
+    min-height: 60px;
+    font-size: 12px;
+  }
+  
+  .bench-icon {
+    font-size: 16px !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .stat-item {
+    margin-bottom: 8px;
+  }
+  
+  .grid-position {
+    min-height: 50px;
+  }
+}
+
+/* Animation for bench placement */
+@keyframes benchPlaced {
+  0% {
+    transform: scale(0.8);
+    opacity: 0.5;
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.has-bench {
+  animation: benchPlaced 0.3s ease-out;
+}
+
+/* Hover effects for cards */
+.card {
+  transition: all 0.3s ease;
+  border: none;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.card:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  transform: translateY(-1px);
+}
+  
+  .dropdown {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    width: 90px;
+  }
+  
+  .deleted-area {
+    width: 1440px;
+    height: 200px;
+    position: absolute;
+    top: 824px;
+    background: #F0F0F0;
+    border-top: 2px solid black;
+  }
+  
+  .submit-button {
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    left: 670px;
+    top: 220px;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .generated-table {
+    position: absolute;
+    left: 290px;
+    top: 260px;
+  }
+  
+  .recover-button {
+    position: absolute;
+    background-color: red;
+  }
