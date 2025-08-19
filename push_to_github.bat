@@ -1,21 +1,25 @@
 @echo off
-echo Initializing git repository...
-git init
+echo Pushing to GitHub Repository...
+echo.
 
-echo Adding all files...
-git add .
+echo Checking git status...
+git status
 
-echo Committing changes...
-git commit -m "Complete exam management system with continuous seat allocation and 680 student dataset"
-
+echo.
 echo Adding remote origin...
-git remote add origin https://github.com/krithika-029/exam-management-.git
+git remote add origin https://github.com/krithika-029/exam-management-.git 2>nul || echo "Remote already exists"
 
+echo.
 echo Setting main branch...
 git branch -M main
 
+echo.
 echo Pushing to GitHub...
 git push -u origin main
 
-echo Done!
+echo.
+echo Push completed! Check GitHub repository at:
+echo https://github.com/krithika-029/exam-management-.git
+echo.
+
 pause
